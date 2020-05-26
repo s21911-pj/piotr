@@ -6,6 +6,6 @@ public class Main {
 
     Obuwniczy obuwniczy = new Obuwniczy ();
 
-
+//nie dziala Obuwniczy
 
 }
